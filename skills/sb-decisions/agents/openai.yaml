@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-decisions"
+  short_description: "Registra notas de decisão atômicas"
+  default_prompt: "Use $sb-decisions para criar e ligar um registro de uma nota por decisão em um vault do Business OS."
+policy:
+  allow_implicit_invocation: true

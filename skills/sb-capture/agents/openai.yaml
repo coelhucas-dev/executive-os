@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-capture"
+  short_description: "Captura e organiza no Inbox"
+  default_prompt: "Use $sb-capture para capturar ou triar informações novas em um vault do Business OS."
+policy:
+  allow_implicit_invocation: true

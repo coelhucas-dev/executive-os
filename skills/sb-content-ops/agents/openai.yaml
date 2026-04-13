@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-content-ops"
+  short_description: "Cuida da camada de conteúdo"
+  default_prompt: "Use $sb-content-ops para gerenciar estratégia de conteúdo e notas de conteúdo em um vault do Business OS."
+policy:
+  allow_implicit_invocation: true

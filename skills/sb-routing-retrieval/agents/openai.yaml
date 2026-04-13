@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-routing-retrieval"
+  short_description: "Encaminha e recupera notas direito"
+  default_prompt: "Use $sb-routing-retrieval para colocar notas no lugar certo e recuperar apenas o contexto mínimo relevante."
+policy:
+  allow_implicit_invocation: true

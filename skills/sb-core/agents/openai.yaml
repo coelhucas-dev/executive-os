@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-core"
+  short_description: "Arquitetura do vault Business OS"
+  default_prompt: "Use $sb-core para entender como funciona e operar dentro de um vault do Business OS."
+policy:
+  allow_implicit_invocation: true

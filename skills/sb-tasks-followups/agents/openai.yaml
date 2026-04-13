@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-tasks-followups"
+  short_description: "Gerencia follow-ups e trabalho delegado"
+  default_prompt: "Use $sb-tasks-followups para gerenciar tarefas, trabalho delegado e notas de waiting-for em um vault do Business OS."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-vault"
+  short_description: "Skill coringa do vault Business OS"
+  default_prompt: "Use $sb-vault para lidar com um pedido geral do vault Business OS e encaminhá-lo para o fluxo certo."
+policy:
+  allow_implicit_invocation: true

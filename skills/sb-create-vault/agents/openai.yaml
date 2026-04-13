@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-create-vault"
+  short_description: "Cria um vault do Business OS"
+  default_prompt: "Use $sb-create-vault para criar um vault novo do Business OS a partir da especificação pública."
+policy:
+  allow_implicit_invocation: true

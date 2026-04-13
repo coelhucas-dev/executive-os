@@ -1,0 +1,14 @@
+---
+description: Business OS vault operating rules
+globs:
+  - "**/*.md"
+alwaysApply: false
+---
+
+Use the Business OS vault model:
+
+- keep notes atomic
+- route by ownership folder
+- use links for relationships
+- avoid broad reads when a dashboard or narrow search is enough
+- avoid growing accumulator notes

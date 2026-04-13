@@ -1,0 +1,6 @@
+interface:
+  display_name: "sb-meeting-ingestion"
+  short_description: "Transforma reuniões em notas atômicas"
+  default_prompt: "Use $sb-meeting-ingestion para converter uma reunião ou transcrição em notas estruturadas do Business OS."
+policy:
+  allow_implicit_invocation: true
